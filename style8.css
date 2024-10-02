@@ -7,16 +7,22 @@ html,body{
     height:100%;
 }
 #main{
-    background-color: rgb(1, 205, 137);
+    background-color: rgb(3, 3, 90);
     width:100%;
     height:100%;
 }
 #header{
     width:100%;
     height:10%;
-    background-color: rgb(9, 62, 62);
-    position:fixed
+    background-color: darkblue;
+    position:fixed;
 }
+#fakeheader{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
 #page1{
     width:100%;
     height:90%;
@@ -25,5 +31,11 @@ html,body{
 #page2{
     height:90%;
     width:100%;
-    background-color: blue;
+    background-color: lightcoral;
+}
+#page3{
+    height:90%;
+    width:100%;
+    background-color: lightcyan;
+
 }
