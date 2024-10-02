@@ -1,0 +1,29 @@
+*{margin: 0;
+    padding: 0;
+}
+ 
+html,body{
+    width:100%;
+    height:100%;
+}
+#main{
+    background-color: aquamarine;
+    width:100%;
+    height:100%;
+}
+#header{
+    width:100%;
+    height:10%;
+    background-color: aqua;
+    position:fixed
+}
+#page1{
+    width:100%;
+    height:90%;
+    background-color: bisque;
+}
+#page2{
+    height:90%;
+    width:100%;
+    background-color: blue;
+}
